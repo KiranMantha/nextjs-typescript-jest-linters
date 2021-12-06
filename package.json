@@ -1,0 +1,35 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "rimraf build && next build",
+    "start": "next start",
+    "test": "jest",
+    "lint": "next lint --no-cache"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.0",
+    "next": "^12.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^8.11.1",
+    "@testing-library/jest-dom": "^5.16.0",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.11",
+    "@types/react": "^17.0.37",
+    "babel-jest": "^27.4.2",
+    "eslint": "8.4.0",
+    "eslint-config-next": "12.0.7",
+    "eslint-config-prettier": "^8.3.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.4.3",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.4"
+  }
+}
