@@ -1,6 +1,10 @@
 {
   "name": "next-app",
   "version": "0.1.0",
+  "description": "Setup for nextjs with typescript, jest, eslint and prettier",
+  "repository": {
+    "url": "https://github.com/KiranMantha/nextjs-typescript-jest-linters.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "rimraf build && next build",
