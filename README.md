@@ -37,6 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 `npm run test`
 
+## For pa11y
+
+`npm run pally`
+
 ## useful links
 
 1. [https://github.com/vercel/next.js/tree/canary/examples/with-dynamic-import](using dynamic imports)
+2. [https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf](integrating pa11y)
