@@ -43,5 +43,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## useful links
 
-1. [https://github.com/vercel/next.js/tree/canary/examples/with-dynamic-import](using dynamic imports)
-2. [https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf](integrating pa11y)
+1. [using dynamic imports in nextjs](https://github.com/vercel/next.js/tree/canary/examples/with-dynamic-import)
+2. [integrating pa11y](https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf)
