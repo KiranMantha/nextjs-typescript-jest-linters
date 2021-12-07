@@ -45,3 +45,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1. [using dynamic imports in nextjs](https://github.com/vercel/next.js/tree/canary/examples/with-dynamic-import)
 2. [integrating pa11y](https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf)
+3. [e2e tests in nextjs](https://imranhsayed.medium.com/using-cypress-with-next-js-for-end-to-end-testing-cypress-nextjs-example-af100609cf16)
