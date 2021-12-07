@@ -3,7 +3,8 @@
   "level": "error",
   "defaults": {
     "timeout": 5000,
-    "threshold": 2
+    "threshold": 2,
+    "reporters": [["./pally-reporter.js", { "fileName": "./pally-report/results.json" }]]
   },
   "urls": [
     {
